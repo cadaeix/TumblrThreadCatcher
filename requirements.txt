@@ -1,0 +1,3 @@
+pytumblr
+requests
+beautifulsoup4

@@ -1,0 +1,90 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h2 {
+  color: #1a1a1a;
+}
+
+h3 {
+  color: #4a4a4a;
+}
+
+h4 {
+  color: #2c2c2c;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 20px 0;
+}
+
+.post-content {
+  background-color: #f9f9f9;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.tags {
+  font-style: italic;
+  color: #666;
+}
+
+.npf_color_joey {
+  color: #ff492f;
+}
+
+.npf_color_monica {
+  color: #ff8a00;
+}
+
+.npf_color_chandler {
+  color: #973ff4;
+}
+
+.npf_color_phoebe {
+  color: #fcf01d;
+}
+
+.npf_color_rachel {
+  color: #00b8ff;
+}
+
+.npf_color_ross {
+  color: #00cf35;
+}
+
+.npf_color_niles {
+  color: #ff62ce;
+}
+
+.npf_color_frasier {
+  color: #001935;
+}
+
+.npf_color_mr_big {
+  color: #000c1a;
+}
+
+.npf_quirky {
+  font-family: Fairwater, "Brush Script MT", cursive;
+  font-size: 24px;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.3em;
+}
+
+.npf_quote {
+  font-family: Calluna, Arial, sans-serif;
+  font-weight: 400;
+}
+
+.npf_chat {
+  font-family: Source Code Pro, "Courier New", Courier, monospace;
+}

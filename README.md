@@ -93,4 +93,4 @@ This project was developed in collaboration with Claude.ai (I wrote most of the 
 
 ## License
 
-This project is open sourced under CC0.
+This project is open sourced under the Unlicense.
